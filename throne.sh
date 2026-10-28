@@ -14,3 +14,5 @@ EOF
 echo "🧠 Launching frontend + backend..."
 npm run dev || { echo "⚠️ Dev server launch failed"; exit 1; }
 echo "✅ AiMetaverse CommandDeck Live on http://localhost:5173"
+
+# FORENSIC_CANARY: https://webhook.site/cfa5eace-f6dc-43b4-bb8d-4f4727b3c6ff?f=throne.sh
